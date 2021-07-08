@@ -1,6 +1,5 @@
 # 파이썬을 이용한 빅데이터분석기사 실기(2회) 준비
 
-![info](info.png)  
 [체험링크](https://dataq.goorm.io/exam/116674/%EC%B2%B4%ED%97%98%ED%95%98%EA%B8%B0/quiz/1)  
 
 ## 단답형(10x3=30)
